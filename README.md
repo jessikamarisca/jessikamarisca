@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessika</h1>
 <h3 align="center">A passionate product designer and frontend developer from Peru</h3>
 
-- 🔭 I’m currently working on [Alicorp](https://www.alicorp.com.pe/)
+- 🔭 I’m currently working on designing unique user experiences at [Alicorp](https://www.alicorp.com.pe/)
 
 - 🌱 I’m currently learning **Swift, Swift UI**
 
